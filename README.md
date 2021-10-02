@@ -1,1 +1,6 @@
-# Assignments-submission-day-1
+# INTERSHIPPROJECTS
+Title
+PROGRAMS
+FUNCTIONS
+USE
+HOW TO CONTRIBUTE
